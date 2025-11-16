@@ -18,7 +18,7 @@ def speak_wish(text):
 screen = turtle.Screen()
 screen.setup(width=800, height=600)
 screen.bgcolor("#000033")
-screen.title("🎉 Happy Birthday Animation 🎉")
+screen.title("🎉 Happy Birthday Animation 🥳🎉")
 turtle.hideturtle()
 turtle.speed(0)
 
